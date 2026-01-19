@@ -1,5 +1,0 @@
-/home/ubuntu/projects/cpp/build/CMakeFiles/main.dir
-/home/ubuntu/projects/cpp/build/CMakeFiles/a1.dir
-/home/ubuntu/projects/cpp/build/CMakeFiles/numbers.dir
-/home/ubuntu/projects/cpp/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/projects/cpp/build/CMakeFiles/rebuild_cache.dir
