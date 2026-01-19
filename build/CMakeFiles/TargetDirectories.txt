@@ -1,0 +1,4 @@
+/Users/colin/Projects/cpp/build/CMakeFiles/main.dir
+/Users/colin/Projects/cpp/build/CMakeFiles/a1.dir
+/Users/colin/Projects/cpp/build/CMakeFiles/edit_cache.dir
+/Users/colin/Projects/cpp/build/CMakeFiles/rebuild_cache.dir
