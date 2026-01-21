@@ -1,6 +1,7 @@
 #include <stdio.h>
 
+const char hi[] = "Hi\n";
 
 int main() {
-    printf("Hi!");
+    printf("%s", hi);
 }
